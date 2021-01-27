@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>QuallyTime – Community</title>
+    <link>quallytime.github.io/community/</link>
+    <description>Recent content in Community on QuallyTime</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	  <atom:link href="quallytime.github.io/community/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>
