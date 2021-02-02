@@ -3,92 +3,92 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/docs/cancellation/</loc>
+    <loc>/he/docs/cancellation/</loc>
     <lastmod>2021-02-02T21:38:08+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="/he/docs/cancellation/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="/docs/cancellation/"
                 />
-  </url>
-  
-  <url>
-    <loc>/docs/privacy/</loc>
-    <lastmod>2021-02-02T21:38:08+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="/he/docs/privacy/"
+                href="/he/docs/cancellation/"
                 />
+  </url>
+  
+  <url>
+    <loc>/he/docs/privacy/</loc>
+    <lastmod>2021-02-02T21:38:08+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="/docs/privacy/"
                 />
-  </url>
-  
-  <url>
-    <loc>/docs/service/</loc>
-    <lastmod>2021-02-02T21:38:08+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="/he/docs/service/"
+                href="/he/docs/privacy/"
                 />
+  </url>
+  
+  <url>
+    <loc>/he/docs/service/</loc>
+    <lastmod>2021-02-02T21:38:08+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="/docs/service/"
                 />
-  </url>
-  
-  <url>
-    <loc>/docs/</loc>
-    <lastmod>2021-02-02T21:38:08+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="/he/docs/"
+                href="/he/docs/service/"
                 />
+  </url>
+  
+  <url>
+    <loc>/he/docs/</loc>
+    <lastmod>2021-02-02T21:38:08+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="/docs/"
                 />
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2021-02-02T21:38:08+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="/he/"
+                href="/he/docs/"
                 />
+  </url>
+  
+  <url>
+    <loc>/he/</loc>
+    <lastmod>2021-02-02T21:38:08+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="/"
                 />
-  </url>
-  
-  <url>
-    <loc>/search/</loc>
-    <lastmod>2020-11-22T18:43:49+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="/he/search/"
+                href="/he/"
                 />
+  </url>
+  
+  <url>
+    <loc>/he/search/</loc>
+    <lastmod>2021-02-02T21:38:08+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="/he/search/"
                 />
   </url>
   
