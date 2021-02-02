@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/he/docs/cancellation/</loc>
-    <lastmod>2021-02-02T21:38:08+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/docs/cancellation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="/he/docs/cancellation/"
-                />
-  </url>
-  
-  <url>
     <loc>/he/docs/privacy/</loc>
     <lastmod>2021-02-02T21:38:08+02:00</lastmod>
     <xhtml:link
@@ -44,6 +29,21 @@
                 rel="alternate"
                 hreflang="he"
                 href="/he/docs/service/"
+                />
+  </url>
+  
+  <url>
+    <loc>/he/docs/cancellation/</loc>
+    <lastmod>2021-02-02T21:38:08+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/docs/cancellation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="/he/docs/cancellation/"
                 />
   </url>
   
