@@ -34,7 +34,7 @@
   
   <url>
     <loc>/he/docs/privacy/</loc>
-    <lastmod>2021-02-03T01:47:11+02:00</lastmod>
+    <lastmod>2021-02-06T14:59:03+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -45,6 +45,11 @@
                 hreflang="he"
                 href="/he/docs/privacy/"
                 />
+  </url>
+  
+  <url>
+    <loc>/he/docs/terms/</loc>
+    <lastmod>2021-02-06T15:12:00+02:00</lastmod>
   </url>
   
   <url>
